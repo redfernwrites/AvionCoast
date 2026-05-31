@@ -22,10 +22,10 @@ What you can find information about on this site:
 
 What you will *not* find information about on this site:
 --------------------------------------------------------
-* General DnD information - if it exists in a book, reference will be made to the information's location
-* Things that has not been revealed to *all* the party members
-* The Big Bag Evil Guy (BBEG), antagonists, villains, etc. and their yet-t0-be-revealed plans, secrets, and lairs
-* Specific stat blocks for homebrewed monsters
+- General DnD information - if it exists in a book, reference will be made to the information's location
+- Things that has not been revealed to *all* the party members
+- The Big Bag Evil Guy (BBEG), antagonists, villains, etc. and their yet-to-be-revealed plans, secrets, and lairs
+- Specific stat blocks for homebrewed monsters
 
 This site is published through GitHub, and if you're a party member, you can `contribute to the repo <https://github.com/redfernwrites/AvionCoast>`_!
 
