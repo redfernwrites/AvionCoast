@@ -8,7 +8,7 @@ from datetime import datetime
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Avion Coast Documentation'
+project = 'The Avion Coast'
 copyright = '2025 - 2026, Kate Redfern'
 author = 'Kate Redfern'
 
