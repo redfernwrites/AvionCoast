@@ -39,6 +39,6 @@ html_theme_options = {
 # https://www.shinx-doc.org/en/master/usage/configuration.html#options-for-markup
 
 rst_prolog = """
-.. |last_session| replace :: 'May 17th, 2026'
-.. |next_session| replace :: 'May 31st, 2026'
+.. |last_session| replace :: May 17th, 2026
+.. |next_session| replace :: May 31st, 2026
 """
