@@ -17,7 +17,7 @@ author = 'Kate Redfern'
 
 today = '%Y-%b-%d'
 
-extensions = ['sphinx_rtd_theme']
+extensions = ['sphinx_rtd_theme', 'myst_parser']
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
