@@ -3,5 +3,5 @@
 venv
 
 # Secret Dungeon Master Stuff
-sessionprep
-statblocks
+sessionprep/
+statblocks/
