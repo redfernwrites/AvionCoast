@@ -35,5 +35,7 @@ This site is published through GitHub, and if you're a party member, you can `co
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Explore!
+
+   sessions
 
