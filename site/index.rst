@@ -37,5 +37,5 @@ This site is published through GitHub, and if you're a party member, you can `co
    :maxdepth: 2
    :caption: Explore!
 
-   sessions
+   session-logs/sessions
 
