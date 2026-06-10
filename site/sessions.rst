@@ -2,7 +2,7 @@ Sessions
 ========
 
 .. toctree::
-   :maxdepth: 1
+   :titlesonly:
 
    session-two
    session-twelve
